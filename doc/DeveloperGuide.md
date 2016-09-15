@@ -116,6 +116,8 @@ Use case ends.
 2. Should be able to hold up to 1000 persons.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
+5. Should have backup regularly and be able to recover from corrupted data.
+6. Should get a response within 3 seconds after user key in command.
 
 ## Appendix D : Glossary
 
